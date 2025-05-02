@@ -34,7 +34,7 @@ An AI-powered backend system that automatically organizes and indexes large sets
 |---------------------|----------------------------------------|
 | Language             | Python                                |
 | Face Recognition     | Dlib / DeepFace / face_recognition     |
-| Object Detection     | YOLO / Custom CNN (for Bib detection)  |
+| Object Detection     | YOLO / SSD / Custom CNN (for Bib detection)  |
 | Image Processing     | OpenCV                                |
 | OCR (optional)       | Tesseract / EasyOCR                   |
 | Frontend (optional)  | HTML/JS or lightweight framework       |
@@ -48,7 +48,7 @@ To automate the process of organizing and delivering participant-specific photos
 
 ---
 
-## 🔄 Process & Flow
+## 🔄 Pipeline Overview
 
 1. **📸 Image Collection**  
    All raw photos from the event are uploaded to a central repository.
