@@ -36,7 +36,8 @@ An AI-powered backend system that automatically organizes and indexes large sets
 | Face Recognition     | Dlib / face_recognition / AWS Rekognition     |
 | Object Detection     | YOLO / SSD / Custom CNN (for Bib detection)  |
 | Image Processing     | OpenCV                                |
-| Frontend (optional)  | HTML / CSS / JS        |
+| Frontend             | HTML / CSS / JS        |
+| API Framework        | Flask       |
 | Storage              | AWS S3 Bucket              |
 
 ---
