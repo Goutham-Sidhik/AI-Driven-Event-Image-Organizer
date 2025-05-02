@@ -34,7 +34,7 @@ An AI-powered backend system that automatically organizes and indexes large sets
 |---------------------|----------------------------------------|
 | Language             | Python                                |
 | Face Recognition     | Dlib / face_recognition / AWS Rekognition     |
-| Object Detection     | YOLO / SSD / Custom CNN (for Bib detection)  |
+| Object Detection     | YOLO / SSD (Custom trained model for Bib detection)  |
 | Image Processing     | OpenCV                                |
 | Frontend             | HTML / CSS / JS        |
 | API Framework        | Flask       |
@@ -92,9 +92,6 @@ To automate the process of organizing and delivering participant-specific photos
 
 - ✅ **Marathon & Running Events**  
   Automatically deliver participant-specific race photos using face and bib number recognition.
-
-- ✅ **Sports Tournaments**  
-  Group and retrieve athlete images based on facial clustering or jersey/bib numbers.
 
 - ✅ **Photography Platforms**  
   Help photographers tag, index, and offer personalized photo downloads to clients.
